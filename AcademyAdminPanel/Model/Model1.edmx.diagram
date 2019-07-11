@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a9dd8e00b7f843b9bc416bbba5533a0b" Name="Diagram1" ZoomLevel="55">
+        <EntityTypeShape EntityType="AcademyModel.AcademyInfo" Width="1.5" PointX="2.875" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademyModel.Classroom" Width="1.5" PointX="7.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademyModel.Employee" Width="1.5" PointX="0.625" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademyModel.Exam" Width="1.5" PointX="10.5" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademyModel.Group" Width="1.5" PointX="5.25" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademyModel.Position" Width="1.5" PointX="0.625" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademyModel.Program" Width="1.5" PointX="11.5" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademyModel.Student" Width="1.5" PointX="2.875" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AcademyModel.Task" Width="1.5" PointX="8.25" PointY="7.375" IsExpanded="true" />
+        <AssociationConnector Association="AcademyModel.Group_fk0" ManuallyRouted="false" />
+        <AssociationConnector Association="AcademyModel.Employee_fk0" ManuallyRouted="false" />
+        <AssociationConnector Association="AcademyModel.Employee_fk1" ManuallyRouted="true" >
+          <ConnectorPoint PointX="11.5" PointY="3.4876777864583328" />
+          <ConnectorPoint PointX="8.53" PointY="3.4876777864583328" />
+          <ConnectorPoint PointX="8.53" PointY="0.6553030621578535" />
+          <ConnectorPoint PointX="0.25" PointY="0.6553030621578535" />
+          <ConnectorPoint PointX="0.25" PointY="2.9998274127707329" />
+          <ConnectorPoint PointX="0.625" PointY="2.9998274127707329" />
+        </AssociationConnector>
+        <AssociationConnector Association="AcademyModel.Exam_fk0" ManuallyRouted="false" />
+        <AssociationConnector Association="AcademyModel.Group_fk1" ManuallyRouted="false" />
+        <AssociationConnector Association="AcademyModel.Student_fk0" ManuallyRouted="false" />
+        <AssociationConnector Association="AcademyModel.Task_fk0" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

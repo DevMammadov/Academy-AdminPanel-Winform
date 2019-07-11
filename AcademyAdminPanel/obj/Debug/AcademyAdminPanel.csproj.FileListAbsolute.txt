@@ -1,0 +1,62 @@
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\bin\Debug\AcademyAdminPanel.exe.config
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\bin\Debug\AcademyAdminPanel.exe
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\bin\Debug\AcademyAdminPanel.pdb
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.csprojAssemblyReference.cache
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Properties.Resources.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.csproj.GenerateResource.cache
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.exe
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.pdb
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.LoginForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.MainForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\bin\Debug\EntityFramework.dll
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\bin\Debug\EntityFramework.xml
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.csproj.CopyComplete
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.EmployerForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Controls.Notification.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.addEmployeeForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.StudentForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.addStudentForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.GroupForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.TaskForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.addTaskForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.ExamForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.addGroupForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.AcademyForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.ClassroomsForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.ProgramsForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.PositionForm.resources
+C:\Users\santa\OneDrive\Desktop\AcademyAdminPanel\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.InfoForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\bin\Debug\AcademyAdminPanel.exe.config
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\bin\Debug\AcademyAdminPanel.exe
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\bin\Debug\AcademyAdminPanel.pdb
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\bin\Debug\EntityFramework.dll
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\bin\Debug\EntityFramework.xml
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.csprojAssemblyReference.cache
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Controls.Notification.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.LoginForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.AcademyForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.addEmployeeForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.addGroupForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.addStudentForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.addTaskForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.ClassroomsForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.ExamForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.GroupForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.InfoForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.MainForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.EmployerForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.PositionForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.ProgramsForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.StudentForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Forms.TaskForm.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.Properties.Resources.resources
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.csproj.GenerateResource.cache
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.csproj.CopyComplete
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.exe
+C:\Users\santa\OneDrive\Desktop\Academy Projects\AcademyAdminPanel\p210-csharp-project-MrFerid\AcademyAdminPanel\obj\Debug\AcademyAdminPanel.pdb
