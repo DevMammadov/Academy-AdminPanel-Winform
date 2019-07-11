@@ -1,4 +1,4 @@
-# P210-CSharp-Project
+# C# Database First Admin panel Project
 
 Academy Management System:
 
